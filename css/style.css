@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#landing {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://storage.googleapis.com/aya-bucket-course12/work.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+.biodata {
+    margin-top: 75px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+}
+
+.col {
+    margin: 15px;
+}
+
+.photo-area {
+    margin-top: 40px;
+}
+
+.txt-highlight {
+    font-family: "Roboto";
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+td.txt-highlight {
+    font-family: "Roboto";
+    font-size: medium;
+}
